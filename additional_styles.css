@@ -1,0 +1,17 @@
+ul {
+    background-color: #f8b421;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+table {
+    background-color: #a81919;
+}
+
+.red-text {
+    font-weight: bold;
+}
+
+.blue-text {
+    font-style: italic;
+}
